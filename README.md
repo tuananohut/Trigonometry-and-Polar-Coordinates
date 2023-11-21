@@ -1,6 +1,10 @@
 # Trigonometry-and-Polar-Coordinates
 
-https://github.com/tuananohut/Trigonometry-and-Polar-Coordinates/assets/57767763/9190a66d-e238-43e2-9ead-3583b9ed50d7
+What is it? 
+  I made a simple pendulum to understand trigonometry and polar coordinates. 
+
+How it works?
+https://youtu.be/r-9fOhEAdUI
 
 Reference:
 https://www.youtube.com/watch?v=znOBmOrtz_M&list=WL&index=143
